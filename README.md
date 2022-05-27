@@ -14,7 +14,7 @@ We plan to start sensitizing universities in Nairobi. To start, we intend to sta
 |9:45|10:00|Registration||
 |10:00|10:05|Opening remarks by Dr Peninah| |
 |10:05|10:15|What is BHKi? by Pauline Karega| | |
-|10:15|11:00|Trends in Bioinformatics by Trushar Shah | | |
+|10:15|11:00|Trends in Bioinformatics by [Trushar Shah](https://www.iita.org/iita-staff/shah-trushar/) | | |
 |11:00|11:50|Networking session ||
 |11:50|11:55|Feedback session led by Sarah Nyanchera| | | |
 |11:55|12:00|Vote of thanks/ closing remarks by Dr Peris||
