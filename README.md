@@ -17,3 +17,8 @@ We plan to start sensitizing universities in Nairobi. To start, we intend to sta
 |11:00|11:50|Networking session ||
 |11:50|11:55|Feedback session led by Sarah Nyanchera| | | |
 |11:55|12:00|Vote of thanks/ closing remarks by Dr Peris||
+
+
+This seminar is sponsorned by [Open Life Science](https://openlifesci.org/) <br/>
+
+![OLS](/images/OLS.logo.png)
